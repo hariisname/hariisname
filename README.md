@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harikrishna</h1>
 <h3 align="center">Data Scientist Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Fake and Real News Classification(NLP)**
 
 - 🌱 I’m currently learning **Deep Learning**
 
